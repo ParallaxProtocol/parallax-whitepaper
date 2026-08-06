@@ -185,6 +185,6 @@ Reality is the arbiter. Cost is the signal. Time is the filter.
 
 [7] Ethash specification, Ethereum Foundation, 2015.
 
-[8] J. Toomim, M. B. Lundeberg, "aserti3-2d: An absolutely scheduled exponentially rising targets difficulty adjustment algorithm," Bitcoin Cash upgrade specification, 2020.
+[8] freetrader, J. Toomim, C. Culianu, M. Lundeberg, "ASERT Difficulty Adjustment Algorithm (aserti3-2d)," Bitcoin Cash upgrade specification, 2020.
 
 [9] E. Hughes, "A Cypherpunk's Manifesto," 1993.
